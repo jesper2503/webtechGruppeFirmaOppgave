@@ -4,7 +4,7 @@ Html filer:
   startPage.html
     Navbar: Marit, Tyra
     Skelleton: Jesper
-  pcUser.html
+  DinUser.html
     Skelleton: Maria, Kristina
   Tyra.html
   Maria.html
