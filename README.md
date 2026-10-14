@@ -1,17 +1,19 @@
-todo:
+Todo:
 
 Html filer:
+
   startPage.html
     Navbar: Marit, Tyra
     Skelleton: Jesper
-  pcUser.html
+    
+  PlayableCharacterUser.html
     Skelleton: Maria, Kristina
-  Tyra.html
-  Maria.html
-  Jesper.html
-  Kristina.html
-  Marit.html
-  Hege.html
+  Tyra.html : Tyra
+  Maria.html : Maria  
+  Jesper.html : Jesper
+  Kristina.html : Kristina
+  Marit.html : Marit
+  Hege.html : Alle
   report.html
     Skelleton: Maria
   guidelines.html
